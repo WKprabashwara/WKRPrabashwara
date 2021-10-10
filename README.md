@@ -16,6 +16,12 @@
             #independent
             #develpoer
 ```
-## My Github Status
+## Mʏ Gɪᴛʜᴜʙ Sᴛᴀᴛᴜꜱ <img src="https://github.com/styleguide/images.jpg" alt="github" width="70">
 
-<p align="left"> <a href="https://github.com/WKRPrabashwara/handle-path-oz"><img align="center" alt="Rivibibu Prabashwara's github stats" src="https://github-readme-stats.vercel.app/api?username=WKRPrabashwara&show_icons=true&theme=midnight-purple" /></a> </p><p align="right"> <a href="https://github.com/WKRPrabashwara"><img src="https://github-profile-trophy.vercel.app/?username=WKRprabashwara&no-bg=midnight-purple" alt="WKRPrabashwara" /></a> </p>
+<p align="left"> <a href="https://github.com/WKRPrabashwara/handle-path-oz"><img align="center" alt="Rivibibu Prabashwara's github stats" src="https://github-readme-stats.vercel.app/api?username=WKRPrabashwara&show_icons=true&theme=midnight-purple" /></a> </p>
+
+<br>
+
+<p align="center"> <a href="https://github.com/WKRPrabashwara"><img src="https://github-profile-trophy.vercel.app/?username=WKRPrabashwara&no-bg=true" alt="WKRPrabashwara" /></a> </p>
+
+<img src="https://octodex.github.com/images/Justicetocat-thomas.gif"  width="100" align="center">
