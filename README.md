@@ -1,4 +1,4 @@
-# Hey There! [I am Rινιвιвυ Pʀᴀʙᴀꜱʜᴡᴀʀᴀ](https://github.com/WKRPrabashwara) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Hᴇʏ Tʜᴇʀᴇ! [I am Rινιвιвυ Pʀᴀʙᴀꜱʜᴡᴀʀᴀ](https://github.com/WKRPrabashwara) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="github" width="54%" align="right">
 
