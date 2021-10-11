@@ -99,3 +99,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedcom/in/dasinghe-3b9376212/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](wkprabashwara@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:daman@outlook.com) 
+
+<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23959595&lines=Hello+There...;Thanks+For+Visiting+My+Acount...;follow+me+on+social+media...;Definitely+Come+Back...;Good+Bye...)](https://git.io/typing-svg)</p>
+
+### _____________________________________________________________________________________GOOD BYE____________________________________________________________________________
