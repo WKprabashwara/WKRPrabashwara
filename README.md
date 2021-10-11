@@ -20,7 +20,7 @@
 
 ### Mᴇᴛʀɪᴄꜱ
 
-![Metrics](https://metrics.lecoq.io/WKRPrabashwara?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&repositories=1&pagespeed=1&followup=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FColombo)
+![Metrics](https://metrics.lecoq.io/WKRPrabashwara?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&repositories=1&lines=1&followup=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FColombo)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="github" width="30%" align="right">
 
@@ -76,8 +76,6 @@
 
 # Mᴏꜱᴛ Uꜱᴇᴅ Lᴀɴɢᴜᴀɢᴇꜱ
 
-![Metrics](https://metrics.lecoq.io/WKRPrabashwara?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FColombo) 
-
 <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="40%" align="right">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WKRPrabashwara&theme=dark&show_icons=true" align="center" />
@@ -100,6 +98,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](wkprabashwara@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:daman@outlook.com) 
 
-<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23959595&lines=Hello+There...;Thanks+For+Visiting+My+Acount...;follow+me+on+social+media...;Definitely+Come+Back...;Good+Bye...)](https://git.io/typing-svg)</p>
+# 
 
-### _____________________________________________________________________________________GOOD BYE____________________________________________________________________________
+___Hello There, Thank you for coming to my account. Don't forget to follow me on social media. Come and use my repositions and give me a star. Be careful. Good bye...___ <img src="https://raw.githubusercontent.com/avinal/avinal/main/images/dog.gif" width="70">
