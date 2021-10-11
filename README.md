@@ -85,3 +85,17 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WKRPrabashwara&true&layout=compact&theme=dark&show_icons=true" align="center" />
 
 # Cᴏɴᴛᴀᴄᴛ Mᴇ Oɴ
+
+<a href="https://t.me/WK_PRABASHWARA" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/invites/contact/?i=1b2go87mx2hh6&utm_content=muwrp81" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UC7KV1EAx_BAy1WUMNdD_Vfg" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twter.com/haJ" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
+
+<br>
+                                                              
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/WKRPrabashwara)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1b2go87mx2hh6&utm_content=muwrp81)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedcom/in/dasinghe-3b9376212/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](wkprabashwara@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:daman@outlook.com) 
