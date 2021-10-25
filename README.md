@@ -26,7 +26,7 @@
 
 <br>
  
-<p align="left"><a href="https://github.com/Damantha126/handle-path-oz"><img align="center" alt="Rινιвιвυ Pʀᴀʙᴀꜱʜᴡᴀʀᴀ's github stats" src="https://github-readme-stats.vercel.app/api?username=WKRPrabashwara&show_icons=true&theme=synthwave" /></a></p>  
+<p align="left"><a href="https://github.com/WKRPrabashwara/handle-path-oz"><img align="center" alt="Rινιвιвυ Pʀᴀʙᴀꜱʜᴡᴀʀᴀ's github stats" src="https://github-readme-stats.vercel.app/api?username=WKRPrabashwara&show_icons=true&theme=synthwave" /></a></p>  
 
 <br>
 
