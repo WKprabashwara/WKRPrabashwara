@@ -1,4 +1,4 @@
-# Hᴇʏ Tʜᴇʀᴇ! [I am Rινιвιвυ Pʀᴀʙᴀꜱʜᴡᴀʀᴀ](https://github.com/WKRPrabashwara) | ![Profile views](https://gpvc.arturio.dev/WKRPrabashwara)
+# Hᴇʏ Tʜᴇʀᴇ! [I am Rινιвιвυ Pʀᴀʙᴀꜱʜᴡᴀʀᴀ](https://github.com/WKRPrabashwara) | ![Profile views](https://gpvc.arturio.dev/WKRPrabashwara) <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="35px">
 
 <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="github" width="54%" align="right">
 
