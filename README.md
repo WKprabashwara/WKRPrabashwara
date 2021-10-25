@@ -93,7 +93,7 @@
 <a href="https://www.instagram.com/invites/contact/?i=1b2go87mx2hh6&utm_content=muwrp81" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC7KV1EAx_BAy1WUMNdD_Vfg" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twter.com/haJ" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://wkprabashwara@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Sadew Jayasekara" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://wkprabashwara@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Sadew Jayasekara" height="40" width="45" /></a> &nbsp;&nbsp;
 <a href="https://fb.com/SAD45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anjana.madu.54" height="40" width="40" /></a> &nbsp;&nbsp;
 
 <br>
