@@ -16,7 +16,7 @@
             #independent
             #develpoer
 ```
-# Mʏ Gɪᴛʜᴜʙ Sᴛᴀᴛᴜꜱ
+# Mʏ Gɪᴛʜᴜʙ Sᴛᴀᴛᴜꜱ | </>
 
 ### Mᴇᴛʀɪᴄꜱ
 
